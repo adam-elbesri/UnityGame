@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/menu.unity
+    guid: 472d762a57a96e24e901d91f3e9dc67b
+  - enabled: 1
+    path: Assets/Scene de test alpha/plane.unity
+    guid: 7ef975ee39b9c164999b6527f91c68f8
+  - enabled: 1
+    path: Assets/Scene de test alpha/scene de test.unity
+    guid: 636d37ec33f4c304fb7389b0ccdb02db
+  - enabled: 1
+    path: Assets/scene/ChoixJoueur.unity
+    guid: 2941ccc4b9eb1314985665b695e4b780
+  - enabled: 1
+    path: Assets/scene/ChoixMap.unity
+    guid: 1ca6be6f706077e4e814ed7ca6775f2f
+  - enabled: 1
+    path: Assets/scene/Jeu.unity
+    guid: fe25195dc7f8a834dbe34d0d587347c4
+  - enabled: 1
+    path: Assets/scene/NombreJoueur.unity
+    guid: 8a738a6b16d68ea41bd2b184a05e6c90
+  m_configObjects: {}
